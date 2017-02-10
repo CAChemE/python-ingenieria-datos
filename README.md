@@ -20,8 +20,11 @@ Repositorio del workshop de introducción a Python siguiendo los materiales de [
 
 <a href="http://cacheme.org/curso-online-python-cientifico-ingenieros/" target="_blank"><img src="https://github.com/CAChemE/python-ingenieria-datos/raw/master/images/curso-online-python.png" 
 alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
+* [ES] [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/)
 
-* [EN] [Software-Carpentry](https://software-carpentry.org/lessons/): Talleres de Python, Linux, SQL, GitHub (EN)
+* [EN] **[Software-Carpentry](https://software-carpentry.org/lessons/): Talleres de Python, Linux, SQL, GitHub (EN)**
+
+* [EN] [Python tutor](http://pythontutor.com/)
 
 ### Libros gratuitos
 * [EN] [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook#python-data-science-handbook)
