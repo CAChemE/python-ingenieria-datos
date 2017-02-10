@@ -32,3 +32,6 @@ alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
 
 * [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
 
+## Dónde pedir ayuda
+[ES] [Stack](es.stackoverflow.com)
+
