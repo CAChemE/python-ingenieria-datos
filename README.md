@@ -21,10 +21,10 @@ Repositorio del workshop de introducción a Python siguiendo los materiales de [
 <a href="http://cacheme.org/curso-online-python-cientifico-ingenieros/" target="_blank"><img src="https://github.com/CAChemE/python-ingenieria-datos/raw/master/images/curso-online-python.png" 
 alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
 * [ES] [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/)
-
 * [EN] **[Software-Carpentry](https://software-carpentry.org/lessons/): Talleres de Python, Linux, SQL, GitHub (EN)**
-
+* [EN]A gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 * [EN] [Python tutor](http://pythontutor.com/)
+* [EN]
 
 ### Libros gratuitos
 * [EN] [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook#python-data-science-handbook)
@@ -33,5 +33,12 @@ alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
 * [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
 
 ## Dónde pedir ayuda
-[ES] [Stack](es.stackoverflow.com)
+[ES] [StackOverflow](http://es.stackoverflow.com)
+[ES] [GitHub, pidiendo ayuda a los desarroladores](https://www.youtube.com/watch?list=PLGBbVX_WvN7as_DnOGcpkSsUyXB1G_wqb&v=fm9hIZ-nUPI)
+
+## Herramientas
+* Un editor de texto: [Notepad++](https://notepad-plus-plus.org/) (Windows), [Atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/)
+* Un IDE: Spyder (similar a MATLAB) o [PyCharm](https://www.jetbrains.com/pycharm/) (**recomendado**)
+* Una distribución: [Anaconda](https://www.continuum.io/downloads), [miniconda](https://conda.io/miniconda.html) (si no necesitas todos los paquetes)
+
 
