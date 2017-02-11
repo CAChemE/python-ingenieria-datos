@@ -22,14 +22,13 @@ Repositorio del workshop de introducción a Python siguiendo los materiales de [
 alt="IMAGE ALT TEXT HERE" width="340" height="180" border="10" /></a>
 * [ES] [Aprendiendo Python](http://www.python.org.ar/aprendiendo-python/)
 * [EN] **[Software-Carpentry](https://software-carpentry.org/lessons/): Talleres de Python, Linux, SQL, GitHub (EN)**
-* [EN]A gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
+* [EN] [A gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks)
 * [EN] [Python tutor](http://pythontutor.com/)
-* [EN]
+ 
 
 ### Libros gratuitos
 * [EN] [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook#python-data-science-handbook)
 * [EN] [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp)
-
 * [EN] [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) 
 
 ## Dónde pedir ayuda
